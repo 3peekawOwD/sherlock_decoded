@@ -1,4 +1,4 @@
-<center><img src="https://intpicture.com/wp-content/uploads/2013/02/Sherlock-24.jpg" height="300px"></center><hr>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sherlock_Logo.svg/1200px-Sherlock_Logo.svg.png" ></center><hr>
 # sherlock
 <br>.::[Утилита для Termux]::.<br>
 Работает на <b>Python3</b>, <b>PHP</b>, <b>Termux-API</b><br>
