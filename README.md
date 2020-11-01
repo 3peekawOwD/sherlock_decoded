@@ -86,17 +86,7 @@
 #Установка и запуск
 <div>$ termux-setup-storage</div>
 <div>$ pkg install git python php</div>
-<div>$ git clone https://github.com/termux-lab/sherlock.git</div>
-<div>$ cd sherlock</div>
+<div>$ git clone https://github.com/3peekawOwD/sherlock_decoded.git</div>
+<div>$ cd sherlock_decoded</div>
 <div>$ python3 install.py</div>
 <div>$ python3 sherl.py</div>
-<hr>
-# Команды:
-<table>
-<tr><td> set </td><td>[set N] В место N, укажите номер возможности. Например [set 3] запустит логгер, так же с другими.</td></tr>
-<tr><td> help </td><td>Вызвать помощь.</td></tr>
-<tr><td> clear </td><td>Очистить консоль.</td></tr>
-  </table>
-
-
-
